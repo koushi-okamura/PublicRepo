@@ -1,4 +1,0 @@
-gitとgitflowを使用してファイルを修正～反映するまでの作業の確認
-140403 add okamura
-140403 upd okamura
-
